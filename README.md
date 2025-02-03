@@ -1,2 +1,3 @@
 # drone-delivery
-Course project for utilizing A* algorithm and sorting alogrithms.
+
+This a pair work project involves developing a navigation system for autonomous drones delivering books between libraries in a city. Using the A* algorithm, the system calculates the shortest route between a starting library and a destination, ensuring drones follow predefined paths. The project includes implementing the Node and Route classes, distance calculations, an interactive user interface, sorting functionalities, and robust error handling. Additionally, unit tests ensure system reliability. The final application allows users to input library locations, find optimal routes, and view route details, enhancing the efficiency of drone-based book deliveries.
